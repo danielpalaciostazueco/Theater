@@ -23,9 +23,9 @@ const obras = [
       'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/Esperando-Godot/una-escena-de-esperando-a-godot.jpg'
     ],
     dates: [
-      '2024-03-03 - 21:00',
-      '2024-03-09 - 22:00',
-      '2024-03-18 - 23:00'
+      1709499600,
+      1710021600,
+      1710802800
     ],
     slug: 'godot',
     cartel: 'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/Esperando-Godot/esperando-a-godot.jpg'
@@ -52,9 +52,10 @@ const obras = [
 
     ],
     dates: [
-      '2024-01-07 - 20:30',
-      '2024-01-12 - 21:00',
-      '2024-01-22 - 19:00'
+      1704659400,
+      1705093200,
+      1705950000
+
     ],
     slug: 'fantasma',
     cartel: 'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/Fantasma-opera/fantasma-opera.jpg'
@@ -81,9 +82,9 @@ const obras = [
 
     ],
     dates: [
-      '2024-05-01 - 23:00',
-      '2024-05-15 - 22:00',
-      '2024-05-20 - 21:00'
+      1714604400,
+      1715810400,
+      1716238800
     ],
     slug: 'show',
     cartel: 'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/Galder/Galder.jpeg'
@@ -109,9 +110,9 @@ const obras = [
     ],
     dates: [
 
-      '2024-06-01 - 18:30',
-      '2024-06-06 - 19:00',
-      '2024-06-10 - 22:00'
+      1717266600,
+      1717700400,
+      1718056800
 
     ],
     slug: 'hamlet',
@@ -140,9 +141,9 @@ const obras = [
       'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/Rey-Leon/reyleonIMG2.avif'
     ],
     dates: [
-      '2024-07-01 - 21:00',
-      '2024-07-10 - 19:00',
-      '2024-07-20 - 20:00'
+      1719867600,
+      1720638000,
+      1721505600
 
     ],
     slug: 'leon',
@@ -171,9 +172,9 @@ const obras = [
     ],
     dates: [
 
-      '2024-08-02 - 21:00',
-      '2024-08-12 - 20:00',
-      '2024-08-21 - 21:00'
+      1722632400,
+      1723492800,
+      1724274000
     ],
     slug: 'bodas',
     cartel: 'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/BodasDeSangre/BodasDeSangre.jpg'
@@ -197,9 +198,9 @@ const obras = [
     ],
     dates: [
 
-      '2024-09-01 - 21:00',
-      '2024-09-03 - 22:30',
-      '2024-09-10 - 23:00'
+      1725224400,
+      1725402600,
+      1726009200
     ],
     slug: 'vocal',
     cartel: 'https://ik.imagekit.io/daniel2003/fotos-descripci%C3%B3n-obras-teatro/B-vocal/b-vocal_LG.jpg'
